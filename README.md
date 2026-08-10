@@ -23,6 +23,9 @@ This paper details common web application security risks and mitigation techniqu
 -
 
 ### 🗄️ Database Design & Implementation
+
+Score: This scored me 98/100 on my assignment.
+
 [View PDF Document](./Database%20Source%20Code.pdf)
 
 [View Video Demo Here](https://youtu.be/9weW4AQj3cw)
